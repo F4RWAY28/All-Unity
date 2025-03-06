@@ -10,4 +10,4 @@
 
 ## - Springen
 
-[link naar code](/SLASHGameProject/Assets/Scripts/Player/Movement/Player%20Movement.cs)
+[link naar code](../SLASHGameProject/Assets/Scripts/Player/Movement/Player%20Movement.cs)
