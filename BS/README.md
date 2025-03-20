@@ -8,6 +8,6 @@
 
 ### Code: 
 
-![launchCube](/Assets/Scripts/LaunchCube.cs)
+![launchCube](https://github.com/F4RWAY28/All-Unity/blob/master/BS/Assets/Scripts/LaunchCube.cs)
 
-![eToPray](/Assets/Scripts/EToPray.cs)
+![eToPray](https://github.com/F4RWAY28/All-Unity/blob/master/BS/Assets/Scripts/EToPray.cs)
