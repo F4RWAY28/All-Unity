@@ -28,6 +28,9 @@ public class HUDSway : MonoBehaviour
 
     void Update()
     {
+        // Skip update if Time.deltaTime is zero to avoid NaN errors
+        if (Time.deltaTime == 0f) return;
+
         // Calculate camera movement velocity
         velocity = (playerCamera.transform.position - lastCameraPosition) / Time.deltaTime;
         lastCameraPosition = playerCamera.transform.position;
@@ -46,7 +49,7 @@ public class HUDSway : MonoBehaviour
         // Target position based on both movement and rotation sway
         Vector3 targetPosition = initialPosition + movementSway + rotationSway;
 
-        // **Clamp target position within maxSwayDistance**
+        // Clamp target position within maxSwayDistance
         targetPosition.x = Mathf.Clamp(targetPosition.x, initialPosition.x - maxSwayDistance, initialPosition.x + maxSwayDistance);
         targetPosition.y = Mathf.Clamp(targetPosition.y, initialPosition.y - maxSwayDistance, initialPosition.y + maxSwayDistance);
 

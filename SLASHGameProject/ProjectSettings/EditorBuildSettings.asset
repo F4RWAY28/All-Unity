@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SLASH (Scene).unity
     guid: 984f0471606b7fd45a3b99104f64052c
+  - enabled: 1
+    path: Assets/Scenes/Menu Screen SLASH.unity
+    guid: 81999dc548ca9f3498a66e77743d238b
   m_configObjects: {}

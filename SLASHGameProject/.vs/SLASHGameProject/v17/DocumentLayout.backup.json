@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|c:\\unity\\unity stuff\\slashgameproject\\assets\\scripts\\player\\movement\\player movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\movement\\player movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|c:\\unity\\unity stuff\\slashgameproject\\assets\\scripts\\spawn point\\spawn point\\spawn point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawn point\\spawn point\\spawn point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|C:\\Unity\\Unity Stuff\\SLASHGameProject\\assets\\scripts\\spawn point\\teleporter to scene\\scene teleporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawn point\\teleporter to scene\\scene teleporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|C:\\Unity\\Unity Stuff\\SLASHGameProject\\assets\\scripts\\menu\\pause game\\pause game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu\\pause game\\pause game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|C:\\Unity\\Unity Stuff\\SLASHGameProject\\assets\\scripts\\player\\camera fx\\camera fx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\camera fx\\camera fx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|C:\\Unity\\Unity Stuff\\SLASHGameProject\\assets\\scripts\\player\\mouse looking\\mouse looking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\mouse looking\\mouse looking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|C:\\Unity\\Unity Stuff\\SLASHGameProject\\assets\\scripts\\player\\player hud\\hud sway\\hud sway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player hud\\hud sway\\hud sway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|C:\\Unity\\Unity Stuff\\SLASHGameProject\\assets\\scripts\\menu\\back to menu button\\back to menu button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu\\back to menu button\\back to menu button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|C:\\Unity\\Unity Stuff\\SLASHGameProject\\assets\\scripts\\menu\\start button\\start button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu\\start button\\start button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player Movement.cs",
+              "DocumentMoniker": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Player\\Movement\\Player Movement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Movement\\Player Movement.cs",
+              "ToolTip": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Player\\Movement\\Player Movement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Movement\\Player Movement.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T10:42:30.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Spawn Point.cs",
+              "DocumentMoniker": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Spawn Point\\Spawn Point\\Spawn Point.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spawn Point\\Spawn Point\\Spawn Point.cs",
+              "ToolTip": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Spawn Point\\Spawn Point\\Spawn Point.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spawn Point\\Spawn Point\\Spawn Point.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAABQwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T10:06:27.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Scene Teleporter.cs",
+              "DocumentMoniker": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Spawn Point\\Teleporter To Scene\\Scene Teleporter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spawn Point\\Teleporter To Scene\\Scene Teleporter.cs",
+              "ToolTip": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Spawn Point\\Teleporter To Scene\\Scene Teleporter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spawn Point\\Teleporter To Scene\\Scene Teleporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:50:08.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Camera FX.cs",
+              "DocumentMoniker": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Player\\Camera FX\\Camera FX.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Camera FX\\Camera FX.cs",
+              "ToolTip": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Player\\Camera FX\\Camera FX.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Camera FX\\Camera FX.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:42:33.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mouse Looking.cs",
+              "DocumentMoniker": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Player\\Mouse Looking\\Mouse Looking.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Mouse Looking\\Mouse Looking.cs",
+              "ToolTip": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Player\\Mouse Looking\\Mouse Looking.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Mouse Looking\\Mouse Looking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:34:33.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HUD Sway.cs",
+              "DocumentMoniker": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Player\\Player HUD\\HUD Sway\\HUD Sway.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player HUD\\HUD Sway\\HUD Sway.cs",
+              "ToolTip": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Player\\Player HUD\\HUD Sway\\HUD Sway.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player HUD\\HUD Sway\\HUD Sway.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T08:46:20.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pause Game.cs",
+              "DocumentMoniker": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Menu\\Pause Game\\Pause Game.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menu\\Pause Game\\Pause Game.cs",
+              "ToolTip": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Menu\\Pause Game\\Pause Game.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menu\\Pause Game\\Pause Game.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAHQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T12:27:06.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Back To menu Button.cs",
+              "DocumentMoniker": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Menu\\Back To Menu Button\\Back To menu Button.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menu\\Back To Menu Button\\Back To menu Button.cs",
+              "ToolTip": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Menu\\Back To Menu Button\\Back To menu Button.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menu\\Back To Menu Button\\Back To menu Button.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:59:55.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Start Button.cs",
+              "DocumentMoniker": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Menu\\Start Button\\Start Button.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menu\\Start Button\\Start Button.cs",
+              "ToolTip": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Menu\\Start Button\\Start Button.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menu\\Start Button\\Start Button.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:58:05.31Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
