@@ -20,9 +20,22 @@
 
 ## Hierin zie je dat ik door op De pijlen of W en S het karakter kan laten lopen met een aangestuurde animatie.
 
+### Code:
+
+![animation](https://github.com/F4RWAY28/All-Unity/blob/master/BS/Assets/Walk%20Anims/animatie.cs)
+
+![MoveBasic](https://github.com/F4RWAY28/All-Unity/blob/master/BS/Assets/Walk%20Anims/MoveBasic.cs)
+
 # tutorial 3-4
 
 ![gif](/BS%20-%20Tutorial2%20-%20Windows,%20Mac,%20Linux%20-%20Unity%202022.3.54f1%20_DX11_%202025-03-27%2015-07-32.gif)
 
 ## hierin zie je dat ik de speler kan besturen en munten kan oppakken die bij de score optellen.
 
+### Code:
+
+![collect](https://github.com/F4RWAY28/All-Unity/blob/master/BS/Assets/Scripts/Tut%202/Collect.cs)
+
+![disappear](https://github.com/F4RWAY28/All-Unity/blob/master/BS/Assets/Scripts/Tut%202/CoinDisappear.cs)
+
+![movement](https://github.com/F4RWAY28/All-Unity/blob/master/BS/Assets/Scripts/Tut%202/Player%20Controls.cs)
