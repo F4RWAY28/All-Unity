@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "C:\\Unity\\Unity Stuff\\BS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C6CB2C0-7088-CEDB-AB9A-05E1DEAD4C18}|Assembly-CSharp.csproj|c:\\unity\\unity stuff\\bs\\assets\\scripts\\run.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6CB2C0-7088-CEDB-AB9A-05E1DEAD4C18}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\run.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C6CB2C0-7088-CEDB-AB9A-05E1DEAD4C18}|Assembly-CSharp.csproj|c:\\unity\\unity stuff\\bs\\assets\\walk anims\\movebasic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6CB2C0-7088-CEDB-AB9A-05E1DEAD4C18}|Assembly-CSharp.csproj|solutionrelative:assets\\walk anims\\movebasic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C6CB2C0-7088-CEDB-AB9A-05E1DEAD4C18}|Assembly-CSharp.csproj|c:\\unity\\unity stuff\\bs\\assets\\scripts\\etopray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6CB2C0-7088-CEDB-AB9A-05E1DEAD4C18}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\etopray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C6CB2C0-7088-CEDB-AB9A-05E1DEAD4C18}|Assembly-CSharp.csproj|c:\\unity\\unity stuff\\bs\\assets\\walk anims\\animatie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6CB2C0-7088-CEDB-AB9A-05E1DEAD4C18}|Assembly-CSharp.csproj|solutionrelative:assets\\walk anims\\animatie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CB2C0-7088-CEDB-AB9A-05E1DEAD4C18}|Assembly-CSharp.csproj|C:\\Unity\\Unity Stuff\\BS\\assets\\scripts\\tut 2\\waalk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6CB2C0-7088-CEDB-AB9A-05E1DEAD4C18}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tut 2\\waalk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CB2C0-7088-CEDB-AB9A-05E1DEAD4C18}|Assembly-CSharp.csproj|C:\\Unity\\Unity Stuff\\BS\\assets\\scripts\\tut 2\\coindisappear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6CB2C0-7088-CEDB-AB9A-05E1DEAD4C18}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tut 2\\coindisappear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CB2C0-7088-CEDB-AB9A-05E1DEAD4C18}|Assembly-CSharp.csproj|C:\\Unity\\Unity Stuff\\BS\\assets\\scripts\\tut 2\\collect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6CB2C0-7088-CEDB-AB9A-05E1DEAD4C18}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tut 2\\collect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CB2C0-7088-CEDB-AB9A-05E1DEAD4C18}|Assembly-CSharp.csproj|C:\\Unity\\Unity Stuff\\BS\\assets\\scripts\\tut 2\\player controls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6CB2C0-7088-CEDB-AB9A-05E1DEAD4C18}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tut 2\\player controls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C6CB2C0-7088-CEDB-AB9A-05E1DEAD4C18}|Assembly-CSharp.csproj|C:\\Unity\\Unity Stuff\\BS\\assets\\scripts\\launchcube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C6CB2C0-7088-CEDB-AB9A-05E1DEAD4C18}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\launchcube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CB2C0-7088-CEDB-AB9A-05E1DEAD4C18}|Assembly-CSharp.csproj|C:\\Unity\\Unity Stuff\\BS\\assets\\scripts\\run.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6CB2C0-7088-CEDB-AB9A-05E1DEAD4C18}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\run.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CB2C0-7088-CEDB-AB9A-05E1DEAD4C18}|Assembly-CSharp.csproj|C:\\Unity\\Unity Stuff\\BS\\assets\\scripts\\etopray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6CB2C0-7088-CEDB-AB9A-05E1DEAD4C18}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\etopray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,6 +51,80 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MoveBasic.cs",
+              "DocumentMoniker": "C:\\Unity\\Unity Stuff\\BS\\Assets\\Walk Anims\\MoveBasic.cs",
+              "RelativeDocumentMoniker": "Assets\\Walk Anims\\MoveBasic.cs",
+              "ToolTip": "C:\\Unity\\Unity Stuff\\BS\\Assets\\Walk Anims\\MoveBasic.cs",
+              "RelativeToolTip": "Assets\\Walk Anims\\MoveBasic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:29:31.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "animatie.cs",
+              "DocumentMoniker": "C:\\Unity\\Unity Stuff\\BS\\Assets\\Walk Anims\\animatie.cs",
+              "RelativeDocumentMoniker": "Assets\\Walk Anims\\animatie.cs",
+              "ToolTip": "C:\\Unity\\Unity Stuff\\BS\\Assets\\Walk Anims\\animatie.cs",
+              "RelativeToolTip": "Assets\\Walk Anims\\animatie.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:19:55.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Waalk.cs",
+              "DocumentMoniker": "C:\\Unity\\Unity Stuff\\BS\\Assets\\Scripts\\Tut 2\\Waalk.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tut 2\\Waalk.cs",
+              "ToolTip": "C:\\Unity\\Unity Stuff\\BS\\Assets\\Scripts\\Tut 2\\Waalk.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tut 2\\Waalk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:48:08.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CoinDisappear.cs",
+              "DocumentMoniker": "C:\\Unity\\Unity Stuff\\BS\\Assets\\Scripts\\Tut 2\\CoinDisappear.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tut 2\\CoinDisappear.cs",
+              "ToolTip": "C:\\Unity\\Unity Stuff\\BS\\Assets\\Scripts\\Tut 2\\CoinDisappear.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tut 2\\CoinDisappear.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T13:05:05.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Collect.cs",
+              "DocumentMoniker": "C:\\Unity\\Unity Stuff\\BS\\Assets\\Scripts\\Tut 2\\Collect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tut 2\\Collect.cs",
+              "ToolTip": "C:\\Unity\\Unity Stuff\\BS\\Assets\\Scripts\\Tut 2\\Collect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tut 2\\Collect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:58:15.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player Controls.cs",
+              "DocumentMoniker": "C:\\Unity\\Unity Stuff\\BS\\Assets\\Scripts\\Tut 2\\Player Controls.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tut 2\\Player Controls.cs",
+              "ToolTip": "C:\\Unity\\Unity Stuff\\BS\\Assets\\Scripts\\Tut 2\\Player Controls.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tut 2\\Player Controls.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T10:47:57.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Run.cs",
               "DocumentMoniker": "C:\\Unity\\Unity Stuff\\BS\\Assets\\Scripts\\Run.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Run.cs",
@@ -34,12 +132,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Run.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T11:36:39.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T11:36:39.187Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "EToPray.cs",
               "DocumentMoniker": "C:\\Unity\\Unity Stuff\\BS\\Assets\\Scripts\\EToPray.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EToPray.cs",
@@ -47,18 +144,17 @@
               "RelativeToolTip": "Assets\\Scripts\\EToPray.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T11:19:38.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T11:19:38.742Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "LaunchCube.cs",
               "DocumentMoniker": "C:\\Unity\\Unity Stuff\\BS\\Assets\\Scripts\\LaunchCube.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LaunchCube.cs",
               "ToolTip": "C:\\Unity\\Unity Stuff\\BS\\Assets\\Scripts\\LaunchCube.cs",
               "RelativeToolTip": "Assets\\Scripts\\LaunchCube.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T10:33:14.119Z"
             }

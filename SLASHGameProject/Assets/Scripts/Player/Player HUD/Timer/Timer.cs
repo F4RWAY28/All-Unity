@@ -13,6 +13,7 @@ public class Timer : MonoBehaviour
     void Start()
     {
         timerText = GetComponent<TextMeshProUGUI>(); // Get the TextMeshPro component on the object
+        timerText.text = "Time: 0.00"; // Update the UI text
     }
 
     void Update()
@@ -32,5 +33,14 @@ public class Timer : MonoBehaviour
             elapsedTime += Time.deltaTime; // Increase time
             timerText.text = "Time: " + elapsedTime.ToString("F2"); // Update the UI text
         }
+    }
+
+    // Method to reset and stop the timer
+    public void ResetTimer()
+    {
+        isTimerRunning = false;
+        elapsedTime = 0f;
+        timerText.text = "Time: 0.00"; // Update the UI text
+        Debug.Log("Timer stopped and reset.");
     }
 }

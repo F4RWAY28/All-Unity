@@ -6,13 +6,13 @@ public class WallRunning : MonoBehaviour
 {
     public Rigidbody Player;
     public float wallRunGravity = 0.98f; // How slow the player falls while wall running
-    public float maxWallRunTime = 2f;   // Maximum time player can wall run
+    public float maxWallRunTime = 1.2f;   // Maximum time player can wall run
     public float wallCheckDistance = 0.8f; // Distance for detecting walls
 
     // Wall Jumping Variables
-    public float wallJumpForce = 0.28f;    // Increased upward force for a higher wall jump
+    public float wallJumpForce = 0.01f;    // Increased upward force for a higher wall jump
     public float wallJumpBoost = 0.17f;    // Forward boost after wall jump
-    public float wallJumpHeightMultiplier = 0.002f; // Multiplier to make the jump higher
+    public float wallJumpHeightMultiplier = 0.0002f; // Multiplier to make the jump higher
 
     private bool isWallRunning = false;
     private float wallRunTimer = 0f;

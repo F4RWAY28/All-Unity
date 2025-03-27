@@ -3,24 +3,44 @@
   "WorkspaceRootPath": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|C:\\Unity\\Unity Stuff\\SLASHGameProject\\assets\\scripts\\player\\camera fx\\camera fx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\camera fx\\camera fx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|C:\\Unity\\Unity Stuff\\SLASHGameProject\\assets\\scripts\\player\\player hud\\hud sway\\hud sway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player hud\\hud sway\\hud sway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|C:\\Unity\\Unity Stuff\\SLASHGameProject\\assets\\scripts\\spawn point\\teleporter to scene\\scene teleporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawn point\\teleporter to scene\\scene teleporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|c:\\unity\\unity stuff\\slashgameproject\\assets\\scripts\\spawn point\\teleporter to scene\\teleporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawn point\\teleporter to scene\\teleporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|c:\\unity\\unity stuff\\slashgameproject\\assets\\scripts\\player\\player hud\\stop timer\\stop timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player hud\\stop timer\\stop timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|C:\\Unity\\Unity Stuff\\SLASHGameProject\\assets\\scripts\\player\\movement\\wall running.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\movement\\wall running.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|C:\\Unity\\Unity Stuff\\SLASHGameProject\\assets\\scripts\\player\\player hud\\timer\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player hud\\timer\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Spawn Point\\Void\\Void Respawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Spawn Point\\Void\\Void Respawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|C:\\Unity\\Unity Stuff\\SLASHGameProject\\assets\\scripts\\spawn point\\spawn point\\spawn point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawn point\\spawn point\\spawn point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|c:\\unity\\unity stuff\\slashgameproject\\assets\\scripts\\spawn point\\void\\void respawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawn point\\void\\void respawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|c:\\unity\\unity stuff\\slashgameproject\\assets\\scripts\\player\\movement\\player movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|C:\\Unity\\Unity Stuff\\SLASHGameProject\\assets\\scripts\\player\\movement\\player movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\movement\\player movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|C:\\Unity\\Unity Stuff\\SLASHGameProject\\assets\\scripts\\spawn point\\teleporter to scene\\scene teleporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawn point\\teleporter to scene\\scene teleporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|C:\\Unity\\Unity Stuff\\SLASHGameProject\\assets\\scripts\\player\\camera fx\\camera fx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\camera fx\\camera fx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|C:\\Unity\\Unity Stuff\\SLASHGameProject\\assets\\scripts\\menu\\pause game\\pause game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|C:\\Unity\\Unity Stuff\\SLASHGameProject\\assets\\scripts\\player\\mouse looking\\mouse looking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\mouse looking\\mouse looking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|C:\\Unity\\Unity Stuff\\SLASHGameProject\\assets\\scripts\\player\\player hud\\hud sway\\hud sway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player hud\\hud sway\\hud sway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B4C69E7-1D4B-9D8D-0F38-33D9289EC1E3}|Assembly-CSharp.csproj|C:\\Unity\\Unity Stuff\\SLASHGameProject\\assets\\scripts\\menu\\back to menu button\\back to menu button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,24 +66,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Teleporter.cs",
+              "DocumentMoniker": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Spawn Point\\Teleporter To Scene\\Teleporter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spawn Point\\Teleporter To Scene\\Teleporter.cs",
+              "ToolTip": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Spawn Point\\Teleporter To Scene\\Teleporter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spawn Point\\Teleporter To Scene\\Teleporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:21:59.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stop Timer.cs",
+              "DocumentMoniker": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Player\\Player HUD\\Stop Timer\\Stop Timer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player HUD\\Stop Timer\\Stop Timer.cs",
+              "ToolTip": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Player\\Player HUD\\Stop Timer\\Stop Timer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player HUD\\Stop Timer\\Stop Timer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T10:39:45.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Timer.cs",
+              "DocumentMoniker": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Player\\Player HUD\\Timer\\Timer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player HUD\\Timer\\Timer.cs",
+              "ToolTip": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Player\\Player HUD\\Timer\\Timer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player HUD\\Timer\\Timer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T09:13:40.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Wall Running.cs",
+              "DocumentMoniker": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Player\\Movement\\Wall Running.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Movement\\Wall Running.cs",
+              "ToolTip": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Player\\Movement\\Wall Running.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Movement\\Wall Running.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:31:01.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Void Respawn.cs",
               "DocumentMoniker": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Spawn Point\\Void\\Void Respawn.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Spawn Point\\Void\\Void Respawn.cs",
               "ToolTip": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Spawn Point\\Void\\Void Respawn.cs",
               "RelativeToolTip": "Assets\\Scripts\\Spawn Point\\Void\\Void Respawn.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T10:38:39.667Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Player Movement.cs",
               "DocumentMoniker": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Player\\Movement\\Player Movement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Movement\\Player Movement.cs",
@@ -75,50 +140,61 @@
               "RelativeToolTip": "Assets\\Scripts\\Player\\Movement\\Player Movement.cs",
               "ViewState": "AgIAAD8AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T10:42:30.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T10:42:30.325Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Spawn Point.cs",
               "DocumentMoniker": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Spawn Point\\Spawn Point\\Spawn Point.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Spawn Point\\Spawn Point\\Spawn Point.cs",
               "ToolTip": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Spawn Point\\Spawn Point\\Spawn Point.cs",
               "RelativeToolTip": "Assets\\Scripts\\Spawn Point\\Spawn Point\\Spawn Point.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAmwC8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T10:06:27.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T10:06:27.394Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Scene Teleporter.cs",
               "DocumentMoniker": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Spawn Point\\Teleporter To Scene\\Scene Teleporter.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Spawn Point\\Teleporter To Scene\\Scene Teleporter.cs",
               "ToolTip": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Spawn Point\\Teleporter To Scene\\Scene Teleporter.cs",
               "RelativeToolTip": "Assets\\Scripts\\Spawn Point\\Teleporter To Scene\\Scene Teleporter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T09:50:08.69Z"
+              "WhenOpened": "2025-03-17T09:50:08.69Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "Camera FX.cs",
               "DocumentMoniker": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Player\\Camera FX\\Camera FX.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Camera FX\\Camera FX.cs",
               "ToolTip": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Player\\Camera FX\\Camera FX.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\Camera FX\\Camera FX.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAABsAAAAOAQAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAABQwBsAAAAOAQAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T09:42:33.623Z",
+              "WhenOpened": "2025-03-17T09:42:33.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HUD Sway.cs",
+              "DocumentMoniker": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Player\\Player HUD\\HUD Sway\\HUD Sway.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player HUD\\HUD Sway\\HUD Sway.cs",
+              "ToolTip": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Player\\Player HUD\\HUD Sway\\HUD Sway.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player HUD\\HUD Sway\\HUD Sway.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T08:46:20.472Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Mouse Looking.cs",
               "DocumentMoniker": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Player\\Mouse Looking\\Mouse Looking.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Mouse Looking\\Mouse Looking.cs",
@@ -130,19 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HUD Sway.cs",
-              "DocumentMoniker": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Player\\Player HUD\\HUD Sway\\HUD Sway.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player HUD\\HUD Sway\\HUD Sway.cs",
-              "ToolTip": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Player\\Player HUD\\HUD Sway\\HUD Sway.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\Player HUD\\HUD Sway\\HUD Sway.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T08:46:20.472Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Pause Game.cs",
               "DocumentMoniker": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Menu\\Pause Game\\Pause Game.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Menu\\Pause Game\\Pause Game.cs",
@@ -154,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Back To menu Button.cs",
               "DocumentMoniker": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Menu\\Back To Menu Button\\Back To menu Button.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Menu\\Back To Menu Button\\Back To menu Button.cs",
@@ -166,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Start Button.cs",
               "DocumentMoniker": "C:\\Unity\\Unity Stuff\\SLASHGameProject\\Assets\\Scripts\\Menu\\Start Button\\Start Button.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Menu\\Start Button\\Start Button.cs",

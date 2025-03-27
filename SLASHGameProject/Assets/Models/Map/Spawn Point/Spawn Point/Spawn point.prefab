@@ -11,7 +11,8 @@ GameObject:
   - component: {fileID: 5879826050551112944}
   - component: {fileID: 6343574732759023038}
   - component: {fileID: 254977107528163505}
-  - component: {fileID: 1097067589018259004}
+  - component: {fileID: 5238446635138177244}
+  - component: {fileID: 9180772101144294218}
   m_Layer: 0
   m_Name: Spawn point
   m_TagString: Untagged
@@ -84,8 +85,22 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!136 &1097067589018259004
-CapsuleCollider:
+--- !u!114 &5238446635138177244
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8212504566328854276}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e683884943333cf44be469ccad3506e9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 8369491464926654512, guid: cf6cbab2bae523546aa2c00fabca8b7d, type: 3}
+  spawnPointName: Spawn Point1
+--- !u!65 &9180772101144294218
+BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -102,8 +117,6 @@ CapsuleCollider:
   m_IsTrigger: 0
   m_ProvidesContacts: 0
   m_Enabled: 1
-  serializedVersion: 2
-  m_Radius: 0.5000001
-  m_Height: 2
-  m_Direction: 1
+  serializedVersion: 3
+  m_Size: {x: 1.0000001, y: 2, z: 1.0000002}
   m_Center: {x: 0.000000059604645, y: 0, z: -0.00000008940697}
