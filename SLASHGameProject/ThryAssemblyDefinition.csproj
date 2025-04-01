@@ -81,8 +81,8 @@
     <Compile Include="Assets\Shaders\Poiyomi Toon (v7.3.50-9.1.25)\_PoiyomiShaders\Scripts\ThryEditor\Editor\Drawers\TextureArray.cs" />
     <Compile Include="Assets\Shaders\Poiyomi Toon (v7.3.50-9.1.25)\_PoiyomiShaders\Scripts\ThryEditor\Editor\EditorStructs\ShaderProperty.cs" />
     <Compile Include="Assets\Shaders\Poiyomi Toon (v7.3.50-9.1.25)\_PoiyomiShaders\Scripts\ThryEditor\Editor\Drawers\ThryIntRange.cs" />
-    <Compile Include="Assets\Shaders\Poiyomi Toon (v7.3.50-9.1.25)\_PoiyomiShaders\Scripts\ThryEditor\Editor\ListTextureUsesPopup.cs" />
     <Compile Include="Assets\Shaders\Poiyomi Toon (v7.3.50-9.1.25)\_PoiyomiShaders\Scripts\ThryEditor\Editor\Shader Translator\TranslatorSectionListItem.cs" />
+    <Compile Include="Assets\Shaders\Poiyomi Toon (v7.3.50-9.1.25)\_PoiyomiShaders\Scripts\ThryEditor\Editor\ListTextureUsesPopup.cs" />
     <Compile Include="Assets\Shaders\Poiyomi Toon (v7.3.50-9.1.25)\_PoiyomiShaders\Scripts\ThryEditor\Editor\PasteSpecialPopup.cs" />
     <Compile Include="Assets\Shaders\Poiyomi Toon (v7.3.50-9.1.25)\_PoiyomiShaders\Scripts\ThryEditor\Editor\Presets.cs" />
     <Compile Include="Assets\Shaders\Poiyomi Toon (v7.3.50-9.1.25)\_PoiyomiShaders\Scripts\ThryEditor\Editor\Shader Translator\ConditionalTranslationBlock.cs" />
@@ -126,8 +126,8 @@
     <Compile Include="Assets\Shaders\Poiyomi Toon (v7.3.50-9.1.25)\_PoiyomiShaders\Scripts\ThryEditor\Editor\Drawers\ThryExternalTextureTool.cs" />
     <Compile Include="Assets\Shaders\Poiyomi Toon (v7.3.50-9.1.25)\_PoiyomiShaders\Scripts\ThryEditor\Editor\EditorStructs\ShaderTextureProperty.cs" />
     <Compile Include="Assets\Shaders\Poiyomi Toon (v7.3.50-9.1.25)\_PoiyomiShaders\Scripts\ThryEditor\Editor\Config.cs" />
-    <Compile Include="Assets\Shaders\Poiyomi Toon (v7.3.50-9.1.25)\_PoiyomiShaders\Scripts\ThryEditor\Editor\TexturePacker\TexturePackerConfig.cs" />
     <Compile Include="Assets\Shaders\Poiyomi Toon (v7.3.50-9.1.25)\_PoiyomiShaders\Scripts\ThryEditor\Editor\Drawers\SmallTexture.cs" />
+    <Compile Include="Assets\Shaders\Poiyomi Toon (v7.3.50-9.1.25)\_PoiyomiShaders\Scripts\ThryEditor\Editor\TexturePacker\TexturePackerConfig.cs" />
     <Compile Include="Assets\Shaders\Poiyomi Toon (v7.3.50-9.1.25)\_PoiyomiShaders\Scripts\ThryEditor\Editor\Shader Translator\PropertyModificationListItem.cs" />
     <Compile Include="Assets\Shaders\Poiyomi Toon (v7.3.50-9.1.25)\_PoiyomiShaders\Scripts\ThryEditor\Editor\ThryFileBuilder.cs" />
     <Compile Include="Assets\Shaders\Poiyomi Toon (v7.3.50-9.1.25)\_PoiyomiShaders\Scripts\ThryEditor\Editor\DataStructs\DrawingData.cs" />
